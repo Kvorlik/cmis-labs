@@ -5,8 +5,8 @@ This repository contains laboratory works for the course "Cryptographic methods 
 Projects in this repo requires Java 11 or greater and Apache Maven 3.6 or greater.
 
 ### Build and run
-To build a laboratory work, enter following command if the root directory:  
+To build a laboratory work, enter following command in the work's directory:  
 `mvn package`.
 
-To run builded project, enter `java -jar target/[name].jar` in the root directory,  
+To run builded project, enter `java -jar target/[name].jar` in the work's directory,  
 where `[name]` is name of the target `.jar` file.
